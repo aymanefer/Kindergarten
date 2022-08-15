@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 django = "*"
+google-api-python-client = "*"
+windows-curses = "*"
 
 [dev-packages]
 
